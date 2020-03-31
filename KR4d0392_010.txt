@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 潛齋集
-#+DATE: 2020-03-31 11:35:02.740442
+#+DATE: 2020-03-31 11:35:02.882916
 #+PROPERTY: ID KR4d0392
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR4d0392_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -279,7 +279,7 @@
 ¶
 　　夀星畫像賛¶
 ¶
-　　伎青鹿兮𦸼章舞白鶴兮虹裳神人儼兮雲上夀千嵗¶
+　　伎青鹿兮藻章舞白鶴兮虹裳神人儼兮雲上夀千嵗¶
 兮未央¶
 ¶
 　　賛汪愛蓮諭食牛¶
